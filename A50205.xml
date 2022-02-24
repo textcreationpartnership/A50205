@@ -1,0 +1,894 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Profit, conveniency, and pleasure, to the whole nation being a short rational discourse, lately presented to His Majesty, concerning the high-ways of England : their badness, the causes thereof, the reasons of those causes, the impossibility of ever having them well-mended according to the old way of mending, but may most certainly be done, and for ever so maintained (according to this new way) substantially, and with very much ease : and so that in the very depth of winter there shall not be much dirt, no deep-cart-rutts, or high-ridges, no holes, or vneven places nor so much as a loose stone (the very worst of evils both to man and horse) in any of the horse-tracts, nor shall any person have cause to be once put out of his way in any hundred of miles riding.</title>
+            <author>Mace, Thomas, d. 1709?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50205</idno>
+            <idno type="STC">Wing M121</idno>
+            <idno type="STC">ESTC R22537</idno>
+            <idno type="EEBO-CITATION">12743368</idno>
+            <idno type="OCLC">ocm 12743368</idno>
+            <idno type="VID">93170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 696:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Profit, conveniency, and pleasure, to the whole nation being a short rational discourse, lately presented to His Majesty, concerning the high-ways of England : their badness, the causes thereof, the reasons of those causes, the impossibility of ever having them well-mended according to the old way of mending, but may most certainly be done, and for ever so maintained (according to this new way) substantially, and with very much ease : and so that in the very depth of winter there shall not be much dirt, no deep-cart-rutts, or high-ridges, no holes, or vneven places nor so much as a loose stone (the very worst of evils both to man and horse) in any of the horse-tracts, nor shall any person have cause to be once put out of his way in any hundred of miles riding.</title>
+                  <author>Mace, Thomas, d. 1709?</author>
+               </titleStmt>
+               <extent>[6], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed for a publick good in the year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 23.</note>
+                  <note>"The preface to the king" signed: Thomas Mace.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roads --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93170:1"/>
+            <p>Profit, Conveniency, and Pleaſure, to the whole Nation.</p>
+            <p>Being a ſhort Rational Diſcourſe, lately preſented to His Majeſty, Concerning the High-ways of ENGLAND: Their <hi>Badneſs,</hi> the <hi>Cauſes</hi> thereof, the <hi>Reaſons</hi> of thoſe <hi>Cauſes,</hi> the impoſſibility of ever ha<g ref="char:EOLhyphen"/>ving them <hi>Well-mended</hi> according to the <hi>Old way</hi> of <hi>mending.</hi>
+            </p>
+            <p>But may moſt certainly be done, and for ever ſo maintained (according to <hi>This New way</hi>) ſubſtantially, and with very much <hi>Eaſe.</hi>
+            </p>
+            <p>And ſo, That in the very depth of <hi>Winter</hi> there ſhall not be much <hi>Dirt,</hi> no <hi>Deep-Cart-rutts,</hi> or <hi>High-ridges;</hi> no <hi>Holes,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>neven Places;</hi> nor ſo much as a <hi>looſe Stone</hi> (the very worſt of Evils both to Man and Horſe) in any of the <hi>Horſe-Tracts.</hi>
+            </p>
+            <p>Nor ſhall any Perſon have cauſe to be once put out of his way in any hundred of miles Riding.</p>
+            <q>
+               <l>To mend <hi>High-ways,</hi> loe Here the way is ſhewn;</l>
+               <l>No better way than This, ſhall e're be known:</l>
+               <l>A Firm and Certain way, of no great Coſt;</l>
+               <l>In all wayes elſe their Labour's wholly loſt.</l>
+               <l>The Old way ne're could do't, 'twas meer Deceit,</l>
+               <l>As may be prov'd; it was a very <hi>Cheat.</hi>
+               </l>
+            </q>
+            <p>Printed for a Publick good in the Year 1675.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:93170:2"/>
+            <pb facs="tcp:93170:2"/>
+            <head>THE PREFACE TO THE KING.</head>
+            <opener>
+               <salute>My Gracious Soveraign,</salute>
+            </opener>
+            <lg>
+               <l>I <hi>Am no</hi> Courtier, <hi>know not how to</hi> Mode,</l>
+               <l>
+                  <hi>But</hi> Bluntly thus contrive <hi>for</hi> Publick good:</l>
+               <l>
+                  <hi>And though I'm well-nigh</hi> Deaf, <hi>and well-nigh</hi> Blind,</l>
+               <l>
+                  <hi>And</hi> Old, <hi>and very</hi> Simple <hi>in my kind;</hi>
+               </l>
+               <l>
+                  <hi>Yet ſhift I daily make for to contrive</hi>
+               </l>
+               <l>
+                  <hi>Something of</hi> Good <hi>to others whilst I live.</hi>
+               </l>
+               <l>
+                  <hi>And ſeveral Works I have already writ,</hi>
+               </l>
+               <l>
+                  <hi>But none to</hi> Publick view <hi>are Publiſh'd yet;</hi>
+               </l>
+               <l>
+                  <hi>Nor ſhall be, till I've try'd how</hi> This <hi>will be</hi>
+               </l>
+               <l>
+                  <hi>Accepted by</hi> Your Sacred Majeſtie.</l>
+               <l>
+                  <hi>Which is a</hi> Product <hi>of my working</hi> Brain,</l>
+               <l>
+                  <hi>And glad ſhould be, it might not be in</hi> vain.</l>
+               <l>
+                  <pb facs="tcp:93170:3"/>
+                  <hi>Now if</hi> Your Majeſtie <hi>will take</hi> n'offence,</l>
+               <l>
+                  <hi>Nor judge my</hi> real Zeal, bold Impudence,</l>
+               <l>
+                  <hi>But</hi> gratiouſly <hi>will</hi> pardon <hi>my</hi> rude Form,</l>
+               <l>
+                  <hi>I doubt not but the</hi> Matter <hi>will</hi> inform</l>
+               <l>Your Majeſtie <hi>of</hi> That <hi>will</hi> pleaſe you well,</l>
+               <l>
+                  <hi>Which is a way,</hi> All other ways excell,</l>
+               <l>In mending Your High-ways, throughout Your Land,</l>
+               <l>
+                  <hi>And is a way,</hi> None <hi>yet do</hi> underſtand.</l>
+               <l>Great ſhame <hi>it is, 'twas never known before,</hi>
+               </l>
+               <l>
+                  <hi>So</hi> plain it is,
+<note place="margin">☞</note> 
+                  <hi>as is a</hi> Great wide door:</l>
+               <l>
+                  <hi>The</hi> way of doing <hi>is</hi> the only Thing,</l>
+               <l>
+                  <hi>And chiefty with it doth the</hi> Profit <hi>bring.</hi>
+               </l>
+               <l>
+                  <hi>But now I'le ceaſe my</hi> Rhiming, <hi>and proceed in</hi> Proſe,</l>
+               <l>
+                  <hi>And to</hi> Your Majeſtie <hi>this</hi> eaſie Thing diſcloſe.</l>
+            </lg>
+            <p>
+               <hi>Yet deeply Imploring,</hi>
+            </p>
+            <p>That it would pleaſe <hi>Your Majeſty gra<g ref="char:EOLhyphen"/>tiouſly</hi> to <hi>pardon this</hi> my <hi>moſt Humble Pre<g ref="char:EOLhyphen"/>ſumption,</hi> proceeding from my <hi>Sincere Duty</hi> to <hi>Your Majeſty,</hi> and a <hi>real Deſire</hi> of doing a <hi>Publick Benefit,</hi> (knowing no better way.)</p>
+            <p>Not that I think my ſelf (in the leaſt) <hi>wiſer</hi> than other men; But that obſer<g ref="char:EOLhyphen"/>ving, as in <hi>all Ages</hi> of the world, it has been the <hi>Happy-good-hap</hi> of ſome <hi>particu<g ref="char:EOLhyphen"/>lar Perſons,</hi> to <hi>hit</hi> upon the <hi>Rightneſs</hi> of ſome <hi>particular Things:</hi>
+            </p>
+            <p>So now, I humbly conceive, it is no leſs <hi>Mine</hi> in this <hi>particular Affair,</hi> of the
+<pb facs="tcp:93170:3"/>
+               <hi>right</hi> and moſt <hi>abſolute way</hi> of <hi>Ordering,</hi> and <hi>Mending Your Majeſties High-ways,</hi> and a <hi>perpetual keeping them ſo.</hi>
+            </p>
+            <p>As I ſhall endeavour to make plain in this following <hi>little Book,</hi> which I moſt <hi>ſubmiſſively Preſent</hi> to <hi>Your Majeſties wiſe Conſideration.</hi>
+            </p>
+            <p>Ever <hi>praying for Your Majeſty,</hi> and <hi>hum<g ref="char:EOLhyphen"/>bly devoting my ſelf</hi> in all <hi>boundy Duty,</hi> and <hi>affectionate Service,</hi> whilſt I am in true <hi>fervency</hi> and <hi>zeal,</hi>
+            </p>
+            <closer>
+               <signed>Your Majeſties moſt Loyal, and moſt Loving Subject, <hi>Thomas Mace.</hi> One of the Clarks of <hi>Trinity-Colledge</hi> Chappel in <hi>Cambridge.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93170:4"/>
+            <lg>
+               <l>
+                  <hi>If when you Read,</hi> Objections <hi>chance t'ariſe,</hi>
+               </l>
+               <l>
+                  <hi>And This or That ſeem doubtfull in your eyes,</hi>
+               </l>
+               <l>
+                  <hi>Have but the patience for to Read it out,</hi>
+               </l>
+               <l>
+                  <hi>All Doubts are anſwer'd clearly without doubt.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93170:4"/>
+            <div type="part">
+               <head>The Order of the Work, In three CONSIDERATIONS.</head>
+               <p>FIrſt,<milestone type="tcpmilestone" unit="unspecified" n="1"/> That all <hi>High-Roads</hi> might be reduced unto <hi>Two Coach</hi> or <hi>Cart-Tracts,</hi> allowing convenient <hi>ſpace</hi> between; which (if <hi>thoſe two</hi> might be <hi>certainly</hi> and <hi>continually</hi> kept <hi>firm</hi> and <hi>good</hi>) would be ſufficient for <hi>all ſervices</hi> and <hi>occaſions</hi> of <hi>Travel</hi> whatever.</p>
+               <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> That <hi>thoſe two Tracts</hi> be drawn ſo <hi>ſtraight</hi> as the Situation of the Ground will afford all along, for ſeveral good Reaſons.</p>
+               <p>Thirdly, I moſt humbly conceive,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> it might be extremely neceſſary, that (after thoſe <hi>two Tracts</hi> are perfectly compleated) there were a <hi>Law</hi> made for <hi>Travellers</hi> to ſome ſuch purpoſe as <hi>this: viz.</hi>
+               </p>
+               <p>That <hi>all Travellers</hi> either with <hi>Coach, Waggon,
+<note place="margin">The Law for Travellers.</note> Wain, Cart,</hi> or <hi>Horſe, coming</hi> to the <hi>City</hi> of <hi>London,</hi> ſhall keep in the <hi>Right-hand Tract coming.</hi>
+               </p>
+               <p>And in their <hi>going</hi> from the <hi>City</hi> of <hi>London,</hi> ſhall likewiſe keep the <hi>Right-hand Tract going, viz.</hi> the contrary.</p>
+               <p>
+                  <pb n="2" facs="tcp:93170:5"/>The <hi>Benefits</hi> and <hi>Conveniences</hi> of theſe three Conſiderations will be <hi>infinite,</hi> and <hi>unconceivable,</hi> till <hi>Time</hi> and <hi>Experience</hi> ſhall make them plain.</p>
+               <p>I will only give a glance at ſome few, for bre<g ref="char:EOLhyphen"/>vities ſake, in each particular, thus:</p>
+               <p>Firſt,
+<note place="margin">The benefit of the firſt Con<g ref="char:EOLhyphen"/>ſideration.</note> If all <hi>High-ways</hi> were reduced only un<g ref="char:EOLhyphen"/>to <hi>two Coach</hi> or <hi>Cart-Tracts,</hi> doubtleſs then there would be an unimaginable <hi>great deal</hi> of <hi>Ground ſav'd;</hi> which is now ſpoil'd and trampled down in all <hi>wide Roads,</hi> where <hi>Coaches</hi> and <hi>Carts</hi> take liberty to <hi>pick</hi> and <hi>chuſe</hi> for their beſt advan<g ref="char:EOLhyphen"/>tages. This is no ſmall Conſideration, if well weighed.</p>
+               <p>Beſides, ſuch <hi>ſprawling</hi> and <hi>ſtraggling</hi> of <hi>Coa<g ref="char:EOLhyphen"/>ches</hi> and <hi>Carts</hi> utterly confound the <hi>Road</hi> in all <hi>wide places;</hi> ſo that it is not only unpleaſurable, but extreme <hi>perplexive</hi> and <hi>cumberſome</hi> both to themſelves, and all <hi>Horſe-Travellers.</hi> The which will be quite <hi>taken away,</hi> and many <hi>conveniences</hi> met withall, by <hi>this Reducement.</hi>
+               </p>
+               <p>Secondly,
+<note place="margin">The benefit of the ſecond Conſideration.</note> If again the Ways ſhall be <hi>regulated,</hi> as to be brought into <hi>ſtraight-lines,</hi> (only ſo far as they are capable of) I do believe, that in one hundred miles Riding, the Traveller ſhall ſave at leaſt the Riding of <hi>Ten miles,</hi> in many places. Which will be a very conſiderable advantage to a weary <hi>Traveller.</hi>
+               </p>
+               <p>Thirdly,
+<note place="margin">The benefit of the third Con<g ref="char:EOLhyphen"/>ſideration.</note> If there were a <hi>ſmart Law</hi> made, to keep all <hi>irregular</hi> and <hi>troubleſome perſons</hi> in an or<g ref="char:EOLhyphen"/>derly way of <hi>Civility</hi> in their Travel; And alſo, That their <hi>Puniſhment</hi> might be almoſt ſo <hi>quick</hi> and <hi>ſure,</hi> as <hi>their Aſſront,</hi> and <hi>Injury given:</hi> then without all queſtion, <hi>innumerable Controverſies, Quarrellings,</hi> and <hi>Diſturbances,</hi> which in that na<g ref="char:EOLhyphen"/>ture
+<pb n="3" facs="tcp:93170:5"/>are <hi>daily committed</hi> in <hi>conteſting</hi> for the way (which too often proves <hi>mortal,</hi> or of very <hi>bad conſequence</hi> to many) muſt needs ceaſe.</p>
+               <p>Beſides,
+<note place="margin">A ſecond great benefit by this Law.</note> there is another very great <hi>benefit</hi> by <hi>this Law,</hi> which is, That no man ſhould be <hi>pestered</hi> by giving the way (ſometimes) to hun<g ref="char:EOLhyphen"/>dreds of <hi>Pack-horſes, Panniers, Whifflers, Coaches, Waggons, Wains, Carts,</hi> or whatſoever others, which continually are very <hi>grievous</hi> to <hi>weary</hi> and <hi>loaden Travellers;</hi> but more eſpecially near the <hi>City,</hi> and upon a <hi>Market-day,</hi> a man having tra<g ref="char:EOLhyphen"/>vell'd a <hi>long</hi> and <hi>tedious Journey,</hi> his Horſe well<g ref="char:EOLhyphen"/>nigh ſpent, ſhall ſometimes be compell'd to croſs out of his way <hi>twenty times</hi> in one miles Riding, by the <hi>irregularity,</hi> and <hi>peeviſh croſſneſs</hi> of ſuch<g ref="char:EOLhyphen"/>like <hi>Whifflers</hi> and <hi>Market-women:</hi> Yea although their <hi>Panniers</hi> be <hi>clearly empty,</hi> they will ſtoutly contend for the way with weary <hi>Travellers,</hi> be they never ſo many, or almoſt of what <hi>Quality</hi> ſoever.</p>
+               <p>Who if by ſuch a <hi>Law</hi> were ordered all of them to keep in <hi>one Tract</hi> or <hi>way,</hi>
+                  <note place="margin">No inconve<g ref="char:EOLhyphen"/>nience for Travellers to keep one Tract.</note> (which they might ſo well do, as not, and no inconvenience to any one of them in the leaſt) I ſay, what an <hi>ineſtimable benefit</hi> might all <hi>Travellers enjoy</hi> by ſuch a <hi>Law?</hi> which could be prejudicial to no man, nor to the leaſt occaſion of <hi>Poſt-haſt-buſineſs,</hi> but an <hi>aſſured furtherance.</hi>
+               </p>
+               <p>For if the wayes were but <hi>thus</hi> kept certainly <hi>firm, clean,</hi> and <hi>good;</hi> if any man had a mind to Travel faſter than <hi>that perſon</hi> which is juſt before him, how <hi>readily</hi> and <hi>ſafely</hi> might he ſtep <hi>out of the way,</hi> and <hi>paſs him by;</hi> and ſo as readily ſtep <hi>into the Tract again</hi> at pleaſure, without the leaſt
+<pb n="4" facs="tcp:93170:6"/>
+                  <hi>danger</hi> of <hi>deep Cart-rutts,</hi> or ſuch unreaſonable <hi>high Ridges,</hi> which now are not poſſible (in many places) to be paſſed over, <hi>without manifest dan<g ref="char:EOLhyphen"/>ger both to Man and Horſe.</hi>
+               </p>
+               <p>Nay I have often known many <hi>Travellers,</hi>
+                  <note place="margin">☞</note> and my ſelf very often, to have been neceſſitated to ſtand ſtock-ſtill behind a <hi>ſtanding Cart</hi> or <hi>Wag<g ref="char:EOLhyphen"/>gon,</hi> in moſt beaſtly and unſufferable deep wet wayes, to the great <hi>endangering</hi> of our <hi>Horſes,</hi> and <hi>neglect</hi> of <hi>important Buſineſs:</hi> Nor durſt we adventure to ſtir, (for moſt <hi>imminent danger</hi> of <hi>thoſe deep Rutts,</hi> and unreaſonable <hi>high Ridges</hi>) till it has pleas'd <hi>Good Mr. Carter</hi> to <hi>Jog on,</hi> which we have taken very kindly.</p>
+               <p>The <hi>great neceſſity</hi> therefore of <hi>ſuch a Law,</hi>
+                  <note place="margin">The great ne<g ref="char:EOLhyphen"/>ceſſity for ſuch a Law.</note> I do conceive will be moſt <hi>deſirable</hi> and <hi>gratefull</hi> to <hi>all Travellers,</hi> who ſhall thus be aſſured to <hi>Tra<g ref="char:EOLhyphen"/>vel</hi> in <hi>peace, ſafety</hi> and <hi>quietneſs;</hi> ſo that in his <hi>never-ſo-long a Journey,</hi> he ſhall not <hi>once</hi> be <hi>di<g ref="char:EOLhyphen"/>ſturb'd</hi> or <hi>put out of his way.</hi>
+               </p>
+               <p>Beſides many other <hi>pleaſures</hi> and <hi>conveniences,</hi> which I ſhall forbear to mention, but leave them to <hi>Travellers</hi> to diſcourſe upon, when <hi>this most happy Day</hi> ſhall <hi>ſhew it ſelf;</hi> that then the <hi>High<g ref="char:EOLhyphen"/>wayes,</hi> and the <hi>Law</hi> for <hi>Travellers,</hi> ſhall make <hi>all This</hi> (and <hi>much more</hi>) <hi>complete, gratefull,</hi> and <hi>ſatisfactory.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:93170:6"/>
+               <head>The Order of the Law.</head>
+               <p>And as to the <hi>Order</hi> of <hi>this Law</hi> of <hi>Travellers,</hi>
+                  <note place="margin">The Law of Travellers.</note> if any <hi>Perſon</hi> ſhall happen to be in the <hi>contrary way,</hi> it ſhall be his part to go <hi>out of it,</hi> and <hi>give way</hi> to his <hi>oppoſite,</hi> or otherwiſe he may be <hi>com<g ref="char:EOLhyphen"/>pelled.</hi>
+               </p>
+               <p>But if any perſon ſhall be <hi>quarrelſome,</hi> and <hi>op<g ref="char:EOLhyphen"/>poſe,</hi> or <hi>force</hi> any other <hi>Traveller</hi> (who is in his <hi>Right-hand-lawfull way</hi>) <hi>out</hi> of <hi>it,</hi> or <hi>injure him</hi> upon <hi>that account:</hi>
+               </p>
+               <p>Then <hi>that Perſon</hi> ſo <hi>oppoſed, forced, hindred,</hi> or <hi>grieved,</hi> (upon juſt complaint and proof made to the <hi>next Juſtice of Peace, Conſtable,</hi> or <hi>Head-Officer</hi> of the very <hi>next Town</hi>) ſhall have his <hi>Caſe immediately heard,</hi> and <hi>adjudged</hi> according to the <hi>truth</hi> of the <hi>Evidence;</hi> And that the <hi>Per<g ref="char:EOLhyphen"/>ſon ſo offending</hi> ſhall immediately <hi>forfeit,</hi> and be <hi>compelled</hi> to <hi>pay, ſo much</hi> to the <hi>party grieved</hi> or <hi>injured,</hi> and <hi>ſo much</hi> to the <hi>Poor</hi> of <hi>that Pariſh</hi> where the caſe is tried: Or for want of ſuch pay<g ref="char:EOLhyphen"/>ment, <hi>his Horſe</hi> may be <hi>diſtrained</hi> upon till ſuch payment be made.</p>
+               <p>This, or ſomething to this purpoſe,
+<note place="margin">☞ This Law can<g ref="char:EOLhyphen"/>not be too ſtrict.</note> cannot be thought <hi>too hard</hi> for ſuch <hi>
+                     <g ref="char:V">Ʋ</g>ncivil, Refractory,</hi> and <hi>Rude Ruffian-like Rake-ſhames,</hi> who too often make it their <hi>buſineſs</hi> and <hi>boaſt,</hi> thus to <hi>diſturb</hi> and <hi>abuſe honest, quiet,</hi> and <hi>weary Travellers;</hi> which is ſo great an <hi>injury,</hi> and an occaſion to ſtir up, and <hi>inflame</hi> the <hi>Spirits</hi> of men, ſo <hi>groſly abuſed,</hi> that many times moſt <hi>deſperate miſchieſs</hi> immediately enſue: But by virtue of ſome ſuch <hi>Law,</hi> all <hi>Theſe</hi> and many more <hi>Inconveniences</hi>
+                  <pb n="6" facs="tcp:93170:7"/>would be <hi>prevented,</hi> and <hi>all Travellers</hi> enjoy <hi>tran<g ref="char:EOLhyphen"/>quility</hi> and much <hi>pleaſure.</hi>
+               </p>
+               <p>Thus much concerning the <hi>Law for Travellers.</hi>
+               </p>
+               <p>Laſtly,
+<note place="margin">The Concluſi<g ref="char:EOLhyphen"/>on of the firſt Preparation.</note> As to the more eaſie effecting of the <hi>buſineſs,</hi> it cannot but be thought much more <hi>feaſible,</hi>
+                  <note place="margin">Why but two Tracts.</note> to maintain only <hi>two Tracts,</hi> which ſhall conſtantly lie <hi>ſtraight,</hi> and as it were <hi>in a line,</hi> than to mend and maintain wayes which lie <hi>croſs, intricate</hi> and <hi>confounded,</hi> as moſt of our wayes throughout <hi>England</hi> do.</p>
+               <p>In the mending of which there is ſuch ſtrange <hi>irregularity,</hi> by the <hi>common Menders,</hi> that they (in a manner) <hi>loſe</hi> the greateſt part of <hi>their Gra<g ref="char:EOLhyphen"/>vel</hi> or <hi>Stones;</hi> now laying <hi>one load here,</hi> and then another quite <hi>croſs five or ſix Cart-wayes</hi> aſide, and in a contrary <hi>Tract;</hi> whereas if there were but only <hi>two Cart-Tracks,</hi> they might with far <hi>leſs trouble</hi> and <hi>coſt,</hi> but infinitely more <hi>eaſily</hi> and <hi>effectually</hi> be <hi>mended,</hi> and moſt certainly be for <hi>ever maintained;</hi> and with a <hi>reaſonable Charge:</hi> As here following moſt plainly I ſhall make ap<g ref="char:EOLhyphen"/>pear.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:93170:7"/>
+               <head>
+                  <hi>The manner and means by which</hi> This <hi>ſo</hi> needful <hi>and</hi> profitable <hi>Work may moſt certainly be</hi> effected, <hi>with much</hi> eaſe, <hi>and no</hi> great coſt.</head>
+               <p>
+                  <hi>In all Humility ſhewing,</hi>
+               </p>
+               <p>THat <hi>Your Majeſties High-wayes</hi> are not only <hi>unpleaſant, cumberſome,</hi> and <hi>grievous;</hi>
+                  <note place="margin">The miſchie<g ref="char:EOLhyphen"/>vous dangers which attend the badneſs of our High-ways.</note> but alſo very <hi>dangerous</hi> to the <hi>Lives</hi> and <hi>Limbs</hi> both of <hi>Men</hi> and <hi>Horſes,</hi> is too obvious and apparent to <hi>all Travellers.</hi>
+               </p>
+               <p>And in that it has been, and is ſtill judg'd <hi>im<g ref="char:EOLhyphen"/>poſſible</hi> to have them <hi>bettered,</hi> and to <hi>continue them ſo,</hi> is ſtill the <hi>greater grief.</hi>
+               </p>
+               <p>The <hi>Conſideration</hi> of which, has been an occa<g ref="char:EOLhyphen"/>ſion unto me to exerciſe my Thoughts ſo far up<g ref="char:EOLhyphen"/>on the <hi>matter,</hi> as <hi>thus</hi> to conclude, and <hi>affirm</hi> the <hi>contrary:</hi> viz.</p>
+               <p>That it is <hi>not impoſſible,</hi>
+                  <note place="margin">☞</note> but very <hi>feaſible</hi> and <hi>eaſie,</hi> both to have them <hi>well mended,</hi> and to <hi>con<g ref="char:EOLhyphen"/>tinue</hi> them <hi>ſo for ever.</hi>
+               </p>
+               <p>Yet I muſt needs ſay, that according to the <hi>old, common,</hi> and <hi>general way</hi> of <hi>mending</hi> them, it is <hi>abſolutely impoſſible,</hi> yea although there were an <hi>hundred times</hi> the <hi>coſt</hi> and <hi>pains</hi> beſtowed on them, as is yearly beſtowed.</p>
+               <p>My Reaſon is <hi>This;</hi> becauſe the <hi>Matter</hi> (<hi>viz.</hi> the <hi>coſt</hi> and <hi>pains</hi>) is not ſo much conſiderable, as the <hi>Manner</hi> and <hi>Order</hi> of <hi>doing it.</hi>
+               </p>
+               <q>
+                  <l>The way of doing is the only Thing,
+<note place="margin">☞</note>
+                  </l>
+                  <l>Which here preſents it ſelf unto the King.</l>
+               </q>
+               <p>
+                  <pb n="8" facs="tcp:93170:8"/>Now as to a more particular Explanation, it is to be conſidered, <hi>what,</hi> and how many <hi>Cauſes</hi> there are of the <hi>badneſs of High-ways:</hi> And they are chiefly <hi>four.</hi>
+               </p>
+               <list>
+                  <item>Firſt,
+<note place="margin">The four chief impediments to High-ways.</note> 
+                     <hi>Mire, Slime,</hi> or <hi>Dirt.</hi>
+                  </item>
+                  <item>2dly. <hi>Deep Cart-rutts,</hi> with their <hi>High-ridges.</hi>
+                  </item>
+                  <item>3dly. <hi>
+                        <g ref="char:V">Ʋ</g>nevenneſſes</hi> and <hi>Holes.</hi>
+                  </item>
+                  <item>4thly. and laſtly, <hi>Looſe-Stones.</hi>
+                  </item>
+               </list>
+               <p>Theſe four things being <hi>rectified,</hi> the <hi>Wayes</hi> muſt needs be <hi>Good.</hi>
+               </p>
+               <p>The firſt thing therefore to be done, (which was ever neglected by the old way) is to <hi>cleanſe</hi> the <hi>wayes thoroughly</hi> from <hi>Dirt,</hi> before any <hi>Gravel</hi> or <hi>Stones</hi> be laid on.</p>
+               <p>Likewiſe all the <hi>Cart-rutts</hi> to be <hi>cut down,</hi> and carried quite away; they being only the <hi>Slime, Greaſe,</hi> or (as I may better ſay) the very <hi>Oyl expreſſed,</hi> by the continual <hi>grinding</hi> and <hi>ſqueezing</hi> of the <hi>Cart-wheels,</hi>
+                  <note place="margin">☞</note> which (according to the <hi>old way</hi> of <hi>mending</hi>) were ſeldom or never taken away,
+<note place="margin">The old ill way of mend<g ref="char:EOLhyphen"/>ing the Ways.</note> but only beat down and put into thoſe <hi>Deep holes,</hi> and <hi>Cart-rutts;</hi> which with ſome <hi>ſmall ſprinkling</hi> of <hi>Gravel,</hi> in ſome places only, or a <hi>few Stones,</hi> or <hi>baſe ill-favour'd Rubbiſh:</hi> And all this (very <hi>diſorderly</hi> and <hi>confuſedly</hi>) was the <hi>principal</hi> and <hi>conſtant way</hi> of mending the <hi>High-ways.</hi> And thus were they concluded to be well mended; but indeed were made <hi>worſe thereby.</hi>
+               </p>
+               <p>For ſo ſoon as a <hi>great glut</hi> of <hi>Rain</hi> comes, the <hi>Cart-wheels</hi> having made way for its reception, in ſtead of being <hi>hard</hi> and <hi>firm ground,</hi> (which
+<pb n="9" facs="tcp:93170:8"/>it ought to be) it becomes a <hi>Quag,</hi> or a <hi>Bog.</hi> And this is one <hi>main cauſe</hi> of the <hi>badneſs</hi> of our <hi>High-ways,</hi> in reference to the two firſt Incon<g ref="char:EOLhyphen"/>veniences, viz. <hi>Mire, Slime,</hi> or <hi>Dirt,</hi> with <hi>deep Cart-rutts</hi> and <hi>ridges.</hi>
+               </p>
+               <p>Now if <hi>theſe two</hi> were firſt <hi>rectified,</hi> as I have declared, viz. <hi>taken quite away,</hi> the other <hi>two</hi> might with <hi>much eaſe</hi> be <hi>amended,</hi> as here I ſhall declare.</p>
+               <p>
+                  <hi>For Example.</hi>
+               </p>
+               <p>Firſt, then,
+<note place="margin">The beſt man<g ref="char:EOLhyphen"/>ner of mend<g ref="char:EOLhyphen"/>ing them.</note> Let it be ſuppos'd that the <hi>Wayes</hi> are <hi>thus prepared,</hi> ſo that there were neither <hi>Dirt,</hi> nor the <hi>Slime</hi> or <hi>Greaſe</hi> of the <hi>Cart-wheels;</hi> and that I might plainly ſee all <hi>thoſe deep holes,</hi> and <hi>unevenneſſes;</hi> I would not doubt but very well to <hi>mend them all,</hi> both <hi>tolerably</hi> and <hi>ſufficiently,</hi> without the <hi>coſt</hi> of one <hi>load of Stones</hi> or <hi>Gravel;</hi> only by <hi>this means,</hi> viz.</p>
+               <p>Let but my <hi>Labourers cut down</hi> with their <hi>Mat<g ref="char:EOLhyphen"/>tocks, all thoſe</hi> adjoyning <hi>unevenneſſes,</hi> (which are <hi>good Stones</hi> and <hi>Gravel</hi> in moſt places, on<g ref="char:EOLhyphen"/>ly <hi>ill laid</hi>) and fill up <hi>thoſe Holes</hi> with the <hi>ſame.</hi>
+                  <note place="margin">Note well.</note>
+               </p>
+               <p>Thus only ſhall the <hi>Wayes</hi> be <hi>ten times better</hi> than they were, and <hi>firm enough</hi> for preſent and future uſe, if they might be always <hi>ſo kept clean.</hi>
+               </p>
+               <p>For the <hi>Wayes,</hi> if the <hi>Dirt</hi> were <hi>taken off,</hi> would in a great meaſure <hi>mend themſelves,</hi> with a very <hi>little looking to.</hi>
+               </p>
+               <p>Yet I would not be miſtaken, as if I did intend no other mending but <hi>This; No.</hi> This is but to
+<pb n="10" facs="tcp:93170:9"/>ſhew how (without the <hi>coſt</hi> of any <hi>new Gravel</hi> or <hi>Stones,</hi>
+                  <note place="margin">☞</note> &amp;c.) the <hi>Wayes</hi> may be made <hi>far bet<g ref="char:EOLhyphen"/>ter</hi> than they are, or <hi>ever will be,</hi> by all the <hi>labour</hi> and <hi>cost</hi> they uſually beſtow upon them time after time.</p>
+               <p>But now after <hi>this thorough cleanſing</hi> (and not before) I would have all thoſe <hi>Hollowneſſes fill'd up</hi> with the <hi>beſt Gravel</hi> or <hi>Stones</hi> that poſſibly can be got for <hi>that purpoſe;</hi> and where there is <hi>urgent need,</hi> ſome <hi>Wood,</hi> but not much.</p>
+               <p>For ſtill I believe, (by the way which I ſhall <hi>direct</hi> for the <hi>conſtant care</hi> in <hi>looking after the Wayes,</hi> when they are once <hi>truly mended</hi>) if there were neither <hi>Wood, Stones,</hi> nor <hi>Gravel,</hi> but only <hi>good hard Earth,</hi>
+                  <note place="margin">A ſeeming impoſſibility.</note> (nay <hi>Plow'd Lands</hi> themſelves) the <hi>Wayes</hi> could not poſſibly be <hi>very bad</hi> at all; no not in the <hi>depth of Winter.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>'Tis only want of</hi> Diligence <hi>and</hi> Care,</l>
+                  <l>
+                     <hi>Which cauſeth</hi> Wayes <hi>to be</hi> out of Repair;</l>
+                  <l>
+                     <hi>And as they'r</hi> daily gull'd, <hi>by</hi> daily wearing,</l>
+                  <l>
+                     <hi>So must be</hi> daily fill'd, <hi>by</hi> good repairing.</l>
+                  <l>
+                     <hi>This is the</hi> only way, no way <hi>but</hi> This;</l>
+                  <l>
+                     <hi>And</hi> thus <hi>a</hi> Fool <hi>may mend</hi> all what's amiſs,</l>
+                  <l>
+                     <hi>With</hi> eaſe, <hi>when once he's ſhew'd but</hi> how; <hi>he'l then</hi>
+                  </l>
+                  <l>
+                     <hi>Become as</hi> wiſe <hi>in</hi> This, <hi>as</hi> wiſer men.</l>
+               </q>
+               <p>However <hi>This</hi> may ſeem a <hi>Riddle,</hi> and <hi>impoſſi<g ref="char:EOLhyphen"/>ble;</hi> yet I doubt not but plainly to make it ap<g ref="char:EOLhyphen"/>pear <hi>moſt true</hi> and <hi>feaſible,</hi> when I come to give my <hi>Directions</hi> for their perpetual <hi>maintenance,</hi> which very ſuddenly I ſhall fall upon.</p>
+               <p>There is one thing more <hi>very conſiderable</hi> in <hi>This work,</hi>
+                  <note place="margin">Care taken to round the Wayes.</note> which is the <hi>rounding</hi> and <hi>heightning</hi>
+                  <pb n="11" facs="tcp:93170:9"/>the <hi>Wayes</hi> in all places where poſſibly they may be ſo ordered, the better to <hi>keep off the wa<g ref="char:EOLhyphen"/>ter,</hi> which is the <hi>Great Corrupter</hi> of all <hi>High<g ref="char:EOLhyphen"/>wayes.</hi>
+               </p>
+               <p>And to this purpoſe,
+<note place="margin">And to turn all Dreins.</note> 
+                  <hi>Care</hi> ought to be taken to <hi>divert all Dreins,</hi> which uſually <hi>iſſue down</hi> up<g ref="char:EOLhyphen"/>on <hi>High-wayes,</hi> and to find them ſome <hi>other paſ<g ref="char:EOLhyphen"/>ſage,</hi> if poſſible.</p>
+               <p>Many other <hi>Curioſities</hi> and <hi>Circumſtances</hi> there are, as to the <hi>compleat</hi> and <hi>exact performance</hi> in <hi>This Work,</hi> too tedious here to be inſerted: But they muſt be left to the <hi>wit</hi> and <hi>diſcretion</hi> of the <hi>Ingenuous <g ref="char:V">Ʋ</g>ndertaker,</hi> in the <hi>time</hi> of the <hi>Opera<g ref="char:EOLhyphen"/>tion,</hi> as need ſhall require.</p>
+               <q>Thus far towards <hi>mending:</hi> Now for <hi>maintaining.</hi>
+               </q>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The certain way to keep and maintain the</hi> High-wayes <hi>firm and good for ever.</hi>
+               </head>
+               <p>I Will firſt ſuppoſe, That the <hi>Wayes</hi> are <hi>thus regulated, cleanſed,</hi> and <hi>firmly</hi> once <hi>mended,</hi> according to the Order preſcribed: And that <hi>two dayes</hi> have paſs'd ſince <hi>this work was done.</hi>
+               </p>
+               <p>Now in theſe <hi>two dayes time,</hi>
+                  <note place="margin">The firſt cauſe of the ruine of the Wayes.</note> there are <hi>pretty deep Cart-rutts</hi> made again, but in <hi>twice two dayes,</hi> much <hi>more deep,</hi> and in a <hi>week</hi> or <hi>fort<g ref="char:EOLhyphen"/>nights time,</hi> ſo <hi>deep,</hi> and with <hi>high Ridges,</hi> that it will occaſion a <hi>Horſe</hi> to <hi>ſtumble</hi> in going <hi>a<g ref="char:EOLhyphen"/>croſs.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:93170:10"/>This is the <hi>firſt beginning,</hi> and the <hi>chiefeſt cauſe</hi> of the <hi>ruine</hi> of all <hi>High-wayes.</hi>
+               </p>
+               <p>How <hi>eaſily</hi> might <hi>this</hi> be <hi>mended,</hi>
+                  <note place="margin">The Remedy quick and eaſie.</note> if there were appointed but a <hi>Labouring man daily</hi> to <hi>look after them;</hi> ſo far as he might well <hi>walk</hi> in one day, and <hi>back again,</hi> with his <hi>Shovel,</hi> or <hi>Rake</hi> in his hand, and only be carefull but to <hi>turn thoſe little Ridges</hi> into the <hi>Cart-rutts</hi> again, and the work were done.</p>
+               <p>And then again the <hi>next day,</hi> and ſo <hi>day after day, all</hi> the <hi>year</hi> throughout: In which work, he ſhould not ſuffer ſo much as one <hi>looſe Stone</hi> to <hi>lye</hi> or <hi>continue</hi> in either of the <hi>Horſe-Tracks,</hi> nor any the leaſt <hi>unevenneſs</hi> to occaſion a <hi>Horſe</hi> to <hi>ſtumble</hi> or <hi>fall;</hi> and in this poſture might <hi>one man</hi> keep his 5, 6, 7, 8, or 10 <hi>miles firm, perfect</hi> and <hi>good</hi> all the year long.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Order of the</hi> Day-man, <hi>and his Conſtant Work.</hi>
+               </head>
+               <p>Firſt,
+<note place="margin">The Day-mans work.</note> having his <hi>ſtation</hi> or <hi>allotment</hi> given <hi>him,</hi> how far, or how many miles he is to take into <hi>his Charge</hi> and <hi>Care,</hi> (which may, and muſt be <hi>more</hi> or <hi>leſs,</hi> according to the <hi>goodneſs</hi> or <hi>bad<g ref="char:EOLhyphen"/>neſs</hi> of the <hi>Nature</hi> of the <hi>Ground</hi>) I ſay, he ha<g ref="char:EOLhyphen"/>ving once ſettled, and entred upon his underta<g ref="char:EOLhyphen"/>king, he ſhall then <hi>every working day,</hi> be up and <hi>upon</hi> the <hi>High-wayes</hi> at <hi>working time, Summer</hi> and <hi>Winter,</hi>
+                  <note place="margin">His Imple<g ref="char:EOLhyphen"/>ments or Tools.</note> either with <hi>Mattock, Shovel, Rake, Scoop, Wood-bill, Wheel-barrow,</hi> or what other <hi>Tool</hi> or <hi>Implements</hi> may be thought needfull for ſuch a Work.</p>
+               <p>
+                  <pb n="13" facs="tcp:93170:10"/>And <hi>thus</hi> ſhall he walk and work from <hi>morn<g ref="char:EOLhyphen"/>ing</hi> to <hi>night.</hi>
+               </p>
+               <p>Firſt, he ſhall work <hi>half</hi> his <hi>ſtation one way,</hi> for two or three days, forwards and backwards, and perform whatever may be moſt needfull for his days-work there.</p>
+               <p>Then the next <hi>two or three days,</hi> he ſhall do the like to his other <hi>half ſtation,</hi> the other way.</p>
+               <p>So that once in a weeks time, ſhall his <hi>whole allotment</hi> be conſtantly <hi>amended:</hi> And I ſuppoſe <hi>one Man</hi> may look after <hi>ten miles</hi> very well, in moſt ordinary <hi>good Soyls.</hi>
+               </p>
+               <p>So that by <hi>this Rule,
+<note place="margin">One hundred miles kept well by ten men.</note> ten Men</hi> ſhall conſtantly keep <hi>one hundred</hi> of <hi>miles perfect</hi> and <hi>firm</hi> the <hi>whole year;</hi> which cannot be eſteemed a <hi>great Charge.</hi>
+               </p>
+               <p>Here may be an Objection:</p>
+               <p>But ſuppoſe it may be objected thus,
+<note place="margin">Objection.</note> (and truly) That in ſome Grounds, one man <hi>cannot</hi> poſſibly <hi>manage ten miles,</hi> by reaſon of the <hi>bad<g ref="char:EOLhyphen"/>neſs</hi> of the <hi>Soyl,</hi> &amp;c.</p>
+               <p>I anſwer thus:
+<note place="margin">Anſwer.</note> Then let him (notwithſtand<g ref="char:EOLhyphen"/>ing) manage <hi>ſo far as he can,</hi> in <hi>this manner:</hi> Although it be but <hi>five miles,</hi> viz. his two miles and a half one way in two or three days, and his two miles and a half the other way next two or three days, more or leſs, as ſhall be found by experience fit.</p>
+               <p>And if quite through the Land the work would require <hi>ſuch a Charge</hi> as <hi>this,</hi> viz. <hi>one Day-man</hi> for every <hi>five miles,</hi> what could that ſignifie?</p>
+               <p>Nothing, in reference to ſo <hi>great a Benefit</hi> to <hi>all Travellers,</hi> and a <hi>general good</hi> to the <hi>whole Na<g ref="char:EOLhyphen"/>tion,</hi>
+                  <pb n="14" facs="tcp:93170:11"/>as I ſhall declare: Therefore ought not to be <hi>repined</hi> at.</p>
+               <p>Yet I am very confident, that in <hi>most places,</hi> (and but very few excepted) that <hi>one Man</hi> may very well keep <hi>ten miles</hi> tollerably well, in al<g ref="char:EOLhyphen"/>moſt the <hi>worst Soyls;</hi> Yet it muſt be granted, that thoſe <hi>worst Grounds</hi> can never be kept ſo <hi>ſprucely fine</hi> (or <hi>Garden-like</hi>) as may thoſe other <hi>Sandy</hi> or <hi>Gravelly Soyls.</hi>
+               </p>
+               <p>However, it may moſt eaſily be conceived, that the <hi>conſtant attendance</hi> of a <hi>continual Day<g ref="char:EOLhyphen"/>man,</hi> muſt neceſſarily keep the very <hi>worst of wayes</hi> ſo, that they ſhall abſolutely be <hi>free</hi> from thoſe <hi>groſs</hi> and <hi>common annoyances,</hi> and moſt <hi>grie<g ref="char:EOLhyphen"/>vous inconveniences,</hi> which we find by <hi>daily</hi> and <hi>wofull experience.</hi>
+               </p>
+               <p>Therefore, I ſay, let the <hi>Coſt</hi> be what it will, <hi>That</hi> ſhould not <hi>deterr</hi> us from putting it into <hi>practice</hi> or <hi>tryal.</hi> Yet I believe I am <hi>much about the matter</hi> in reſpect of the <hi>Charge.</hi>
+               </p>
+               <p>I am likewiſe very confident,
+<note place="margin">Concerning the Coſt or Charge.</note> that after the <hi>first thorough cleanſing</hi> and <hi>amending,</hi> the ordi<g ref="char:EOLhyphen"/>nary <hi>Statutable yearly Charge,</hi> viz. every man's ſix days work, <hi>&amp;c.</hi> will ſuffice; together with <hi>thoſe</hi> other <hi>Proviſions</hi> already <hi>deſign'd</hi> and <hi>allowed</hi> to <hi>that purpoſe.</hi>
+               </p>
+               <p>Yet if I be a little out in <hi>This,</hi> I hope I ſhall be excus'd when it ſhall be conſider'd, that I am not out in the <hi>grand Cast</hi> of the <hi>deſign.</hi>
+               </p>
+               <p>But at the <hi>first</hi> there muſt be ſome way found out, for more than an <hi>ordinary Charge,</hi> to have them <hi>once firmly done:</hi> And after that, theſe <hi>con<g ref="char:EOLhyphen"/>ſtant Labouring men</hi> ſhall keep them <hi>ever ſo,</hi> at a <hi>ſmall expence.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:93170:11"/>
+               <head>
+                  <hi>The Concluſion and very</hi> Life <hi>of the</hi> Buſineſs.</head>
+               <p>BUt firſt,
+<note place="margin">The Liſe of the buſineſs.</note> I would have <hi>no more common Over<g ref="char:EOLhyphen"/>ſeers</hi> imployed in <hi>This Work:</hi> For,
+<q>
+                     <l>
+                        <hi>By their</hi> Great wiſdoms, <hi>and their</hi> Overſight,</l>
+                     <l>
+                        <hi>They ne're could ſee to</hi> mend the Ways aright.</l>
+                  </q>
+               </p>
+               <p>Therefore it is <hi>most neceſſary,</hi>
+                  <note place="margin">What is the moſt neceſſary thing to con<g ref="char:EOLhyphen"/>firm this Work.</note> that for every <hi>hundred</hi> or <hi>two hundred miles,</hi> (more or leſs, as may be thought fit) there be <hi>one Surveyor-General;</hi> ſome <hi>Active-trusty-honest man,</hi> who ſhould <hi>conſtantly</hi> be on <hi>Horſe-back himſelf,</hi> or his <hi>moſt faithfull Truſtees, riding</hi> upon his <hi>ſtation, day</hi> after <hi>day,</hi>
+                  <note place="margin">☜</note> to ſee that theſe <hi>Day-men-Labourers truly acted their parts,</hi> according to their orders given.</p>
+               <p>And in caſe of <hi>neglect</hi> of <hi>their</hi> parts, in any theſe <hi>leaſt punctilio's,</hi> viz. as to ſuffer any <hi>deep Dirt</hi> to lye in the <hi>Horſe-Track, looſe Stone,</hi> (the great <hi>undoer</hi> of <hi>Horſes,</hi> and moſt conſtant <hi>occaſion</hi> of <hi>Falls</hi>) <hi>uneven-little-knubs,</hi> or any <hi>Holes</hi> or <hi>Cart<g ref="char:EOLhyphen"/>rutts</hi> unamended, or any other <hi>neglect;</hi>
+               </p>
+               <p>Then he ſhall have <hi>power</hi> (at his <hi>diſcretion</hi>) to <hi>puniſh</hi> ſuch <hi>Labourers,</hi> either by <hi>ſtopping</hi> ſome part of <hi>their Wages,</hi> or by <hi>putting them out</hi> of <hi>that</hi> ſo <hi>conſtant, good,</hi> and <hi>very eaſie Imployment,</hi> and to <hi>elect others</hi> into <hi>their places.</hi>
+               </p>
+               <p>Which thing will cauſe them to be <hi>daily care<g ref="char:EOLhyphen"/>full</hi> and <hi>diligent;</hi>
+                  <note place="margin">How the work may, or it may not be done.</note> And without <hi>ſuch</hi> an <hi>exact-continual-daily-conſtant-ſtrictneſs,</hi> and ſuch <hi>ſeve<g ref="char:EOLhyphen"/>rity,</hi>
+                  <pb n="16" facs="tcp:93170:12"/>by ſuch <hi>faithfull</hi> and <hi>choice perſons,</hi> (who will not take an <hi>Office</hi> for any end ſo much, as to be <hi>active,</hi> and to ſee <hi>their buſineſs well per<g ref="char:EOLhyphen"/>formed</hi>) the <hi>Work</hi> will <hi>not</hi> be <hi>done:</hi> But other<g ref="char:EOLhyphen"/>wiſe <hi>it may,</hi> with the <hi>greatest eaſe</hi> and <hi>pleaſure imaginable.</hi>
+               </p>
+               <q>
+                  <l>Thus <hi>only may</hi> the Buſineſs be well done;</l>
+                  <l>
+                     <hi>And if not</hi> Thus, Pray let it ſtill alone.</l>
+               </q>
+               <p>Yet is not the <hi>Contriver</hi> ſo <hi>ſillily conceited,</hi> as to think the <hi>Work</hi> muſt neceſſarily be done <hi>juſt ſo,</hi> in this manner in <hi>every Punctilio,</hi> as he hath di<g ref="char:EOLhyphen"/>rected unto; or that <hi>nothing</hi> can be <hi>added</hi> where<g ref="char:EOLhyphen"/>by it may be <hi>better done;</hi> No; For he knows there are <hi>divers other particulars</hi> to be thought upon and added <hi>neceſſarily depending,</hi> which doubtleſs will be found out and appear <hi>reaſona<g ref="char:EOLhyphen"/>ble,</hi> &amp;c. if ever <hi>This</hi> which he has <hi>Thus hinted</hi> to<g ref="char:EOLhyphen"/>wards ſhall come to be thought fit to be <hi>taken notice of,</hi> as a way <hi>feaſible</hi> and likely to take effect, although with ſome Addition or Alteration.</p>
+               <p>And he ſhall much rejoyce that any thing may be <hi>added</hi> which may be more <hi>advantageous</hi> to the <hi>Work,</hi> which doubtleſs will and may eaſily be done, according to <hi>That old Latine ſaying,</hi>
+                  <q>Facile eſt inventis addere.</q>
+                  <q>
+                     <l>
+                        <hi>But this he only ſhall be bold to ſay,</hi> (viz)</l>
+                     <l>
+                        <hi>There</hi> never <hi>will be found a</hi> ſurer way</l>
+                     <l>
+                        <hi>To have the Wayes kept</hi> Firm, <hi>when once</hi> they'r mended,</l>
+                     <l>
+                        <hi>Than Thus to have them Daily well attended.</hi>
+                     </l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:93170:12"/>
+               <head>AN Abbreviation of the <hi>WORK,</hi> Being an Encouragement thereunto.</head>
+               <lg>
+                  <l>
+                     <hi>FIrſt, let the</hi> Wayes <hi>be</hi> regularly <hi>brought</hi>
+                  </l>
+                  <l>
+                     <hi>To</hi> Artificial form, <hi>and</hi> truly <hi>wrought;</hi>
+                  </l>
+                  <l>
+                     <hi>So that we can ſuppoſe</hi> them firmly mended,</l>
+                  <l>
+                     <hi>And in all</hi> needfull points, <hi>the</hi> Work well ended,</l>
+                  <l>
+                     <hi>That not a</hi> Stone's amiſs; <hi>but</hi> all compleat,</l>
+                  <l>
+                     <hi>All lying</hi> ſmooth, round, fine, <hi>and</hi> wondrous neat.</l>
+                  <l>
+                     <hi>Then comes a Gang of</hi> heavy-loaden Wains,</l>
+                  <l>
+                     <hi>Of</hi> Carts, <hi>and</hi> Waggons, ſpoiling all <hi>our</hi> pains;</l>
+                  <l>
+                     <hi>And with their</hi> piercing Grinders, <hi>cauſe them then</hi>
+                  </l>
+                  <l>
+                     <hi>To be</hi> impreſt <hi>with</hi> Furrows deep <hi>agen:</hi>
+                  </l>
+                  <l>(<hi>As well they may; for yet they are but</hi> ſoft,</l>
+                  <l>
+                     <hi>Being newly ſtirr'd, and</hi> lightly <hi>laid</hi> aloft)</l>
+                  <l>
+                     <hi>And let</hi> them <hi>lye but</hi> Thus, one month <hi>or</hi> twain,</l>
+                  <l>
+                     <hi>The</hi> Wayes <hi>muſt needs be</hi> deeply Gull'd <hi>again.</hi>
+                  </l>
+                  <l>
+                     <hi>But let</hi> them <hi>lye ſtill, as they us'd to do</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Year throughout, <hi>and none to</hi> look thereto,</l>
+                  <l>
+                     <hi>How muſt</hi> They <hi>not needs be</hi> unſufferable,</l>
+                  <l>
+                     <hi>As</hi> now they are, <hi>and judg'd</hi> irrepairable?</l>
+                  <l>
+                     <hi>'Nor is it poſſible,</hi> ſans daily care,</l>
+                  <l>
+                     <hi>'To keep</hi> High-wayes <hi>in</hi> daily good repair.</l>
+                  <l>
+                     <hi>'But let my</hi> Day-man <hi>come; he'l</hi> do the deed,
+<note place="margin">☜</note>
+                  </l>
+                  <l>
+                     <hi>'Only with</hi> Spade, <hi>or</hi> Rake, mend all <hi>with ſpeed:</hi>
+                  </l>
+                  <l>'Rake <hi>in the</hi> Ridges, <hi>make the</hi> Cart-wayes plain,</l>
+                  <l>
+                     <hi>'The</hi> Work <hi>is done; the</hi> Wayes <hi>are</hi> good again.</l>
+                  <l>
+                     <pb n="18" facs="tcp:93170:13"/>
+                     <hi>Is</hi> This <hi>not</hi> eaſie? <hi>who can it denie?</hi>
+                  </l>
+                  <l>
+                     <hi>No</hi> Wiſe man <hi>ſure, who can</hi> Right Reaſon <hi>'ſpie.</hi>
+                  </l>
+                  <l>
+                     <hi>I therefore ſay, let there a</hi> Day-man <hi>be</hi>
+                  </l>
+                  <l>
+                     <hi>Provided for</hi> one mile, <hi>or</hi> two, <hi>or</hi> three,</l>
+                  <l>
+                     <hi>Or</hi> four, <hi>or</hi> many <hi>more, if</hi> need <hi>require,</hi>
+                  </l>
+                  <l>
+                     <hi>And pay him</hi> well; (<hi>for</hi> he I deſerve <hi>his</hi> hire:)</l>
+                  <l>
+                     <hi>Then he ſhall work ſo to your</hi> hearts content,</l>
+                  <l>
+                     <hi>That for his</hi> wages <hi>ſure you'l not</hi> repent:</l>
+                  <l>
+                     <hi>Except you be ſome</hi> Hog-herd,
+<note place="margin">The Argu<g ref="char:EOLhyphen"/>ment.</note> 
+                     <hi>or ſome</hi> Miſer,</l>
+                  <l>
+                     <hi>Or elſe ſome</hi> Fondling, <hi>or</hi> one <hi>ſcarcely wiſer.</hi>
+                  </l>
+                  <l>
+                     <hi>For what</hi> wiſe man <hi>would ever be</hi> offended</l>
+                  <l>
+                     <hi>To ſee the</hi> Ways <hi>thus</hi> conſtantly well mended?</l>
+                  <l>
+                     <hi>Or would</hi> repine <hi>for</hi> paying <hi>ſomewhat more</hi>
+                  </l>
+                  <l>
+                     <hi>Than uſually he us'd to pay before?</hi>
+                  </l>
+                  <l>
+                     <hi>What is the</hi> Money <hi>to ſo</hi> great a good?</l>
+                  <l>Nought, Nought, <hi>if 'twere but</hi> rightly underſtood,</l>
+                  <l>
+                     <hi>And well conſider'd on; none would</hi> repine</l>
+                  <l>
+                     <hi>To have their</hi> Wayes <hi>thus</hi> pleaſant,
+<note place="margin">The pleaſure.</note> trim, <hi>and</hi> fine:</l>
+                  <l>
+                     <hi>Not ſo much as</hi> one little Stone <hi>to lye</hi>
+                  </l>
+                  <l>Looſe <hi>in your</hi> Tract, <hi>to make you</hi> tread awry;</l>
+                  <l>
+                     <hi>Or cauſe your</hi> Horſe <hi>to</hi> ſtumble, trip, <hi>or</hi> fall,</l>
+                  <l>
+                     <hi>To</hi> lame <hi>his</hi> feet, <hi>or cauſe him have</hi> Wind-gall.</l>
+                  <l>
+                     <hi>Such</hi> Stones <hi>are</hi> greateſt enemies <hi>to</hi> Horſes,
+<note place="margin">The greateſt miſchief to Horſes.</note>
+                  </l>
+                  <l>
+                     <hi>Whether in</hi> Drawing, Travelling, <hi>or</hi> Courſes:</l>
+                  <l>
+                     <hi>By</hi> them <hi>are</hi> deſperate Falls; <hi>more</hi> Horſes lam'd,</l>
+                  <l>
+                     <hi>Then can by</hi> All things elſe <hi>in</hi> Travel <hi>nam'd;</hi>
+                  </l>
+                  <l>
+                     <hi>Theſe all ſhall be</hi> remov'd, day <hi>after</hi> day,</l>
+                  <l>
+                     <hi>And</hi> (<hi>as they happen</hi> daily) put away.</l>
+                  <l>
+                     <hi>Now do but fancy all things</hi> thus amended,</l>
+                  <l>
+                     <hi>All</hi> Difficults <hi>in</hi> Travels <hi>ſure are</hi> ended;</l>
+                  <l>
+                     <hi>'And</hi> thus <hi>with</hi> little Coſt, <hi>but</hi> prudent Care,</l>
+                  <l>
+                     <hi>'The</hi> High-ways <hi>may be made</hi> firm, ſmooth, <hi>&amp;</hi> fair.</l>
+                  <l>
+                     <hi>Then after</hi> This,
+<note place="margin">The Law.</note> 
+                     <hi>there would be made</hi> a Law,</l>
+                  <l>
+                     <hi>To keep</hi> all boiſterous-Ruſſians <hi>in ſome</hi> Awe;</l>
+                  <l>
+                     <pb n="19" facs="tcp:93170:13"/>
+                     <hi>And likewiſe in ſuch</hi> good Decorum <hi>keep</hi>
+                  </l>
+                  <l>All Travellers, <hi>that whoſo will, may</hi> ſleep</l>
+                  <l>
+                     <hi>Ev'n as</hi> he Rideth: <hi>For he need not doubt</hi>
+                  </l>
+                  <l>
+                     <hi>The leaſt</hi> Diſturbance <hi>from the</hi> Common Rout,</l>
+                  <l>
+                     <hi>Nor of</hi> that Cuſtom old; <hi>of th' ne'er ſo</hi> many</l>
+                  <l>
+                     <hi>Who may him</hi> meet, <hi>he'l not be</hi> forc'd by any</l>
+                  <l>
+                     <hi>Out of</hi> his Track: <hi>But if he</hi> ſo <hi>ſhould be</hi>
+                  </l>
+                  <l>
+                     <hi>By any</hi> hot-brain'd Youth <hi>uncivillie,</hi>
+                  </l>
+                  <l>
+                     <hi>He may ſoon</hi> cool his courage, <hi>if he pleaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And to his</hi> ponderous Purſe <hi>give ready</hi> eaſe.</l>
+                  <l>
+                     <hi>'Tis only back to th'</hi> next Town <hi>for to</hi> Ride,</l>
+                  <l>
+                     <hi>He'l there have</hi> Law <hi>and</hi> Juſtice (quick) on's ſide,</l>
+                  <l>
+                     <hi>Which preſently ſhall</hi> puniſh this bold Blade,</l>
+                  <l>
+                     <hi>And make him</hi> pay your Dammage, <hi>(as 'tis ſaid</hi>
+                  </l>
+                  <l>
+                     <hi>Above) and ſomething to the</hi> Poor <hi>to boot;</hi>
+                  </l>
+                  <l>
+                     <hi>Or elſe his</hi> Horſe diſtrain'd: <hi>Then he on foot</hi>
+                  </l>
+                  <l>
+                     <hi>Must</hi> trudge; <hi>or on his</hi> Hobby-horſe <hi>may</hi> Ride,</l>
+                  <l>
+                     <hi>With his</hi> Long-dingle-dangle <hi>by his ſide.</hi>
+                  </l>
+                  <l>
+                     <hi>And thus to ſee him in this</hi> ſtately ſort,</l>
+                  <l>
+                     <hi>Will doubtleſs make</hi> good laughing, merry ſport.</l>
+                  <l>
+                     <hi>Nor can this ſure be thought too ſmart a</hi> Law,</l>
+                  <l>
+                     <hi>To keep ſuch</hi> dangerous Rake-ſhames <hi>thus in</hi> awe.</l>
+                  <l>Therefore,</l>
+                  <l>
+                     <hi>'Tis very needfull</hi> ſome ſuch Law <hi>ſhould be</hi>
+                  </l>
+                  <l>
+                     <hi>Made</hi> firm <hi>for</hi> Travellers Securitie.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:93170:14"/>
+               <head>
+                  <hi>A ſhort glance of the</hi> Conveniences, Pro<g ref="char:EOLhyphen"/>fits, <hi>and</hi> Pleaſures <hi>of</hi> this Work, <hi>men<g ref="char:EOLhyphen"/>tioning only ſome</hi> few.</head>
+               <p>THe <hi>Conveniences, Pleaſures,</hi> and <hi>Profits</hi> of ſuch a <hi>Work</hi> as <hi>this,</hi> ariſing to the <hi>whole Nation,</hi> muſt certainly be very <hi>many,</hi> and not eaſily apprehended, but by <hi>experience,</hi> and <hi>con<g ref="char:EOLhyphen"/>ſideration</hi> thereupon; I will only hint ſome few. As firſt,</p>
+               <p>The great <hi>pleaſure</hi> and <hi>content</hi> which <hi>all Tra<g ref="char:EOLhyphen"/>vellers</hi> muſt needs take by ſuch <hi>cleanly,
+<note n="1" place="margin">The Tra<g ref="char:EOLhyphen"/>vellers plea<g ref="char:EOLhyphen"/>ſure and con<g ref="char:EOLhyphen"/>tent.</note> ſmooth, ſtraight, delightfull,</hi> and <hi>undistur'd Wayes,</hi> both <hi>Summer</hi> and <hi>Winter, Day</hi> or <hi>Night,</hi> without <hi>fear</hi> or <hi>danger,</hi> &amp;c.</p>
+               <p>An <hi>ordinary Horſe</hi> ſhall carry a man <hi>further</hi> than one of a far <hi>better price.</hi>
+               </p>
+               <p>All <hi>Trades-men</hi> and others ſhall have their <hi>Com<g ref="char:EOLhyphen"/>modities</hi> carried at a far <hi>eaſier price.</hi>
+                  <note n="2" place="margin">The Carri<g ref="char:EOLhyphen"/>ages of all Commodities muſt needs be cheaper.</note>
+               </p>
+               <p>Moſt <hi>Commodities</hi> therefore muſt needs be cheaper.</p>
+               <p>Men may <hi>Ride Poſt ſafely</hi> ſo well by <hi>Night</hi> as by <hi>Day,</hi>
+                  <note n="3" place="margin">Men may Ride ſafely in the dark.</note> which in Summer time is to be choſen.
+<note n="4" place="margin">Hire of Poſt-Horſes, Hack<g ref="char:EOLunhyphen"/>neys, and Coa<g ref="char:EOLhyphen"/>ches cheaper.</note>
+               </p>
+               <p>
+                  <hi>Poſt-Horſes</hi> and <hi>Hackneys</hi> may well be afforded at <hi>eaſier Rates;</hi> ſo likewiſe <hi>Coaches.</hi>
+               </p>
+               <p>The great <hi>deſtruction</hi> in <hi>laming Horſes,</hi>
+                  <note n="5" place="margin">Preſervati<g ref="char:EOLhyphen"/>on of Horſes, therefore cheaper.</note> muſt needs be <hi>prevented: Horſes</hi> therefore undoubted<g ref="char:EOLhyphen"/>ly be <hi>cheaper.</hi>
+               </p>
+               <p>Much <hi>Ground</hi> will be <hi>ſaved</hi> by this means;
+<note n="6" place="margin">Much ground ſav'd.</note> And the <hi>length</hi> of all <hi>Long Journeys ſhortned.</hi>
+                  <note n="7" place="margin">Long Jour<g ref="char:EOLhyphen"/>neys ſhortned.</note>
+               </p>
+               <p>
+                  <pb n="21" facs="tcp:93170:14"/>Laſtly,
+<note n="8" place="margin">Much Corn ſav'd from ſpoiling.</note> There will be very <hi>much Corn ſaved</hi> from daily <hi>ſpoiling,</hi> which now cannot well be avoided.</p>
+               <p>But the <hi>vaſt Benefit</hi> of the <hi>Travellers Law</hi> will be ſo ſuperabundantly <hi>ſatisfactory</hi> and <hi>contentive,</hi>
+                  <note n="9" place="margin">The unex<g ref="char:EOLhyphen"/>preſſible be<g ref="char:EOLhyphen"/>nefit to all Travellers.</note> that the <hi>Good thereof</hi> cannot be expreſſed.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>T'le therefore ceaſe, only not ceaſe to pray</hi>
+                     </l>
+                     <l>
+                        <hi>That I may live to ſee</hi> This happy Day:</l>
+                     <l>
+                        <hi>Not that I do deſire ſo much to</hi> Live,</l>
+                     <l>
+                        <hi>As that</hi> Aſſiſtance <hi>to it</hi> I might give</l>
+                     <l>
+                        <hi>Before I dye, with all my</hi> wit and skill,</l>
+                     <l>
+                        <hi>Though it be ſmall; yet wants not</hi> great good will,</l>
+                     <l>
+                        <hi>Nor</hi> Diligence, <hi>nor</hi> Care, <hi>nor</hi> faithfull Truſt,</l>
+                     <l>
+                        <hi>And therein ſhould be found</hi> exactly juſt.</l>
+                     <l>
+                        <hi>Not that</hi> I care an Officer <hi>to be,</hi>
+                     </l>
+                     <l>
+                        <hi>More than to give</hi> Directions, <hi>and to ſee</hi>
+                     </l>
+                     <l>
+                        <hi>That ſuch a Work as</hi> This <hi>ſhould no ways fail,</hi>
+                     </l>
+                     <l>
+                        <hi>If by my</hi> ſtricteſt care <hi>I could prevail:</hi>
+                     </l>
+                     <l>
+                        <hi>For without</hi> Care, <hi>and</hi> daily Diligence,
+<note place="margin">Note.</note>
+                     </l>
+                     <l>
+                        <hi>All</hi> Labour's loſt, <hi>all</hi> Coſt, <hi>though</hi> vaſt, expence.
+<note place="margin">Note.</note>
+                     </l>
+                     <l>
+                        <hi>Yet by my</hi> conſtant Day-man <hi>may be done;</hi>
+                        <note place="margin">☜</note>
+                     </l>
+                     <l>
+                        <hi>But otherwiſe,</hi> 'Tis not worth thinking on.</l>
+                  </lg>
+                  <p>
+                     <hi>There's only</hi> One Thing <hi>yet</hi> worth think<g ref="char:EOLhyphen"/>ing on;</p>
+                  <p>
+                     <hi>To put</hi> This Work <hi>in</hi> Execution.</p>
+               </q>
+               <p>
+                  <pb n="22" facs="tcp:93170:15"/>And if (by what has been <hi>Thus premiſed</hi>) ſo much <hi>notice</hi> may be taken of <hi>This Contrivance,</hi> by ſuch <hi>Perſons</hi> in <hi>Authority</hi> as may probably <hi>promote</hi> the <hi>Work,</hi> and ſet it on <hi>foot;</hi> the <hi>Contriver</hi> does not doubt but alſo (farther than he has yet ex<g ref="char:EOLhyphen"/>preſſed <hi>himſelf</hi> in this <hi>little Book</hi>) to <hi>adde Aſſiſt<g ref="char:EOLhyphen"/>ance</hi> towards <hi>it,</hi> by finding out, or prompting unto <hi>a ready way,</hi> how to procure and raiſe a <hi>con<g ref="char:EOLhyphen"/>ſiderable ſum of Money</hi> towards the neceſſary ex<g ref="char:EOLhyphen"/>pence <hi>thereof;</hi> without offering the leaſt <hi>wrong,</hi> or <hi>violence</hi> to any <hi>Perſon,</hi> or his <hi>Purſe.</hi>
+               </p>
+               <p>For <hi>Money</hi> muſt be ſpent in the <hi>first Attempt,</hi> becauſe <hi>the Wayes</hi> are ſo <hi>groſly foul</hi> and <hi>bad;</hi> al<g ref="char:EOLhyphen"/>though afterwards an <hi>eaſie yearly Charge</hi> will un<g ref="char:EOLhyphen"/>doubtedly ſerve towards their <hi>maintenance</hi> for ever.</p>
+               <p>And if (for an <hi>Experiment</hi>) a tryal might be made only for any <hi>one-half-hundred-miles,</hi> with a matter of 50 or 60 <hi>choice Labouring men;</hi> the <hi>Contriver</hi> would freely give his <hi>aſſiſtance</hi> to the <hi>Work, gratis,</hi> by beginning it, and putting them into <hi>the way,</hi> and ſetting a <hi>pattern.</hi> And if <hi>This</hi> may be as <hi>freely accepted of,</hi> as it is <hi>freely offered,</hi> there can (ſure) be <hi>no hurt done</hi> at all.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="23" facs="tcp:93170:15"/>
+            <head>AN ADVERTISEMENT.</head>
+            <p>TO all Ingenuous Perſons, Lovers of Art, who may pleaſe to take notice, That there is in the <hi>Preſs,</hi> and coming forth, a <hi>large New-Book</hi> in <hi>Folio,</hi> (made by the <hi>ſame Author</hi>) tending to the <hi>Advancement</hi> of <hi>Muſick</hi> in <hi>General;</hi> wherein he hath done an <hi>unuſual piece of Kindneſs</hi> to <hi>all</hi> the <hi>Lovers</hi> and <hi>Learners</hi> of <hi>That Art:</hi> in <hi>freely com<g ref="char:EOLhyphen"/>municating</hi> his <hi>long Experience</hi> in the ſaid <hi>Art,</hi> in ſundry and very many <hi>particulars.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Title <hi>and</hi> Matter <hi>of the</hi> Book, <hi>is as followeth:</hi> viz.</p>
+            <p>A <hi>Remembrancer,</hi> of the <hi>Beſt Practical Muſick</hi> (both <hi>Divine</hi> and <hi>Civil</hi>) that has been known ever to have been in the <hi>World.</hi> Divided into <hi>Three Parts.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Firſt, <hi>or</hi> Divine Part,</p>
+            <p>Shews the <hi>neceſſity</hi> of <hi>Singing Pſalms well,</hi> in <hi>Parochial-Churches,</hi> or <hi>not to Sing</hi> at all.</p>
+            <p>Directing unto <hi>Two certain</hi> and <hi>infallible wayes,</hi> both how they may be <hi>well Sung,</hi> and how they may be <hi>ſo continued</hi> for <hi>ever;</hi> to the <hi>great illu<g ref="char:EOLhyphen"/>ſtration</hi>
+               <pb n="24" facs="tcp:93170:16"/>of the <hi>Church-Service,</hi> and the <hi>Glory of God,</hi> (the generality being wholly ignorant thereof.)</p>
+            <p>
+               <hi>The</hi> Second, <hi>or</hi> Civil Part,</p>
+            <p>Treats of the <hi>Noble Lute,</hi> (ever eſteemed the <hi>Beſt of Inſtruments,</hi> but through its former <hi>diffi<g ref="char:EOLhyphen"/>culties</hi> almoſt quite laid aſide) yet certainly <hi>now</hi> made <hi>eaſie;</hi> and all its <hi>occult,</hi> and <hi>lockt-up ſecrets</hi> plainly laid open, (never before diſcovered) whereby it is made ſo <hi>eaſie</hi> and <hi>pleaſant,</hi> as any <hi>Inſtrument of worth</hi> known in the <hi>World.</hi>
+            </p>
+            <p>Giving the true Reaſons of all its former <hi>diffi<g ref="char:EOLhyphen"/>culties,</hi> and alſo why now it muſt of neceſſity be <hi>eaſie,</hi> by undeniable Arguments.</p>
+            <p>Likewiſe ſhewing the <hi>difference</hi> betwixt the <hi>French-Lute,</hi> and the <hi>Theorboe;</hi> Directing the moſt ample way of Playing <hi>off</hi> the <hi>Note</hi> (or a <hi>Thorough-Baſs</hi>) upon the <hi>Theorboe.</hi> And both <hi>amplified</hi> with divers Suits of <hi>Lone-Leſſons,</hi> fit for <hi>all Capacities.</hi>
+            </p>
+            <p>Shewing a <hi>General way</hi> for procuring <hi>Inven<g ref="char:EOLhyphen"/>tion</hi> in <hi>Young Students</hi> or <hi>Compoſers;</hi> or playing <hi>voluntarily</hi> or <hi>ex tempore</hi> upon <hi>it,</hi> or any other <hi>Inſtrument.</hi>
+            </p>
+            <p>With two pretty <hi>Devices;</hi> The one <hi>Teaching</hi> any <hi>Perſon (Ingenuous)</hi> (whether skilfull or not skilfull in the Art) how to <hi>tranſlate Leſſons</hi> from one <hi>Tuning</hi> to another.</p>
+            <p>The other an indubitable way how to know which is the <hi>beſt Tuning</hi> upon any <hi>Inſtrument:</hi> Both done by <hi>Example.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:93170:16"/>
+               <hi>In the</hi> Third Part,</p>
+            <p>The <hi>Generous Viol</hi> in <hi>its Righteſt <g ref="char:V">Ʋ</g>ſe</hi> is treated upon, with ſomething in <hi>That Reſpect more Curi<g ref="char:EOLhyphen"/>ous,</hi> than has been ever yet handled by any; with very many Things worthy of <hi>Note,</hi> too te<g ref="char:EOLhyphen"/>dious here to inſert: Being the <hi>Product</hi> of his more than <hi>fifty years Experience</hi> and <hi>Practice</hi> in <hi>This Noble</hi> and <hi>Divine Art,</hi> very ſhortly to come forth.</p>
+            <p>Here followeth ſome few neceſſary Rea<g ref="char:EOLhyphen"/>ſons, for this his Advertiſing Publication.</p>
+            <p>The Firſt Reaſon is,</p>
+            <p>In that he conceives he may do both <hi>himſelf</hi> a <hi>conveniency</hi> by it, and many <hi>worthy Perſons</hi> a <hi>kindneſs,</hi> in letting them know there is ſuch a <hi>Book</hi> in coming forth; which doubtleſs will be <hi>acceptable</hi> and <hi>beneficial</hi> to all who make <hi>Sing<g ref="char:EOLhyphen"/>ing of Pſalms</hi> a piece of <hi>their Divine Service,</hi> and would gladly do it after the <hi>beſt manner;</hi> and eſpecially to <hi>Thoſe</hi> who have <hi>Harmonious Souls,</hi> and are <hi>Tinctur'd</hi> with <hi>Tractabilities</hi> in <hi>Nature</hi> to the <hi>love</hi> of <hi>ſolid Divine,</hi> and <hi>ſober-civil Muſick.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:93170:17"/>The Second Reaſon is,</p>
+            <p>Out of a <hi>great Reſpect</hi> he has to very many <hi>eminent</hi> and <hi>obliging worthy Perſons,</hi> (to the num<g ref="char:EOLhyphen"/>ber of between <hi>Two and Three hundred</hi>) who have already ſo far <hi>encourag'd</hi> towards the <hi>Print<g ref="char:EOLhyphen"/>ing</hi> of <hi>This Work,</hi> as that <hi>they</hi> have each of them <hi>Subſcribed their Names</hi> to take a <hi>Copy</hi> of the <hi>ſaid Book,</hi> ſo ſoon as it ſhall be <hi>Printed</hi> and <hi>Deliver'd</hi> unto them, at the <hi>Price</hi> of 12 <hi>s.</hi>
+            </p>
+            <p>The Third Reaſon.</p>
+            <p>Now upon <hi>This</hi> very laſt <hi>Conſideration</hi> he be<g ref="char:EOLhyphen"/>gins to conceive, both what a <hi>vaſt Trouble</hi> it will be, for himſelf to <hi>Deliver Thoſe Books</hi> to each par<g ref="char:EOLhyphen"/>ticular <hi>Perſon,</hi> (ſome of them living more then 200 miles aſunder) and likewiſe, what a <hi>long time</hi> it muſt needs be before <hi>They</hi> can All be ſer<g ref="char:EOLhyphen"/>ved with the <hi>ſaid Book,</hi> after it is <hi>Printed:</hi>
+            </p>
+            <p>Therefore,</p>
+            <p>Upon theſe <hi>Two Conſiderations chiefly</hi> it is, that he <hi>thus declares,</hi> and makes it his <hi>humble</hi> and <hi>earneſt Requeſt,</hi> to <hi>all Thoſe his loving Friends</hi> and <hi>Honoured Subſcribers,</hi> that <hi>They</hi> will be pleas'd <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſider Theſe two</hi> ſo very <hi>great Incon<g ref="char:EOLhyphen"/>veniences;</hi> And alſo adde ſo much Favour unto their <hi>former Kindneſs</hi> done unto him, as to <hi>Re<g ref="char:EOLhyphen"/>ceive Their Books</hi> at ſome one of theſe five fol<g ref="char:EOLhyphen"/>lowing <hi>nominated Places,</hi> viz. <hi>London, Cambridge, Norwich, Nottingham, York.</hi>
+            </p>
+            <p>
+               <pb n="27" facs="tcp:93170:17"/>At each of which <hi>Places</hi> he will contrive to lay ſo many <hi>Books</hi> as may ſerve <hi>All thoſe</hi> who have <hi>thereunto Subſcribed;</hi> And likewiſe procure a <hi>certain Friend</hi> in <hi>each Place</hi> both to <hi>Deliver</hi> out the <hi>Books,</hi> and alſo to <hi>Receive the Money</hi> for <hi>them</hi> for <hi>his <g ref="char:V">Ʋ</g>ſe:</hi> viz.</p>
+            <p>At <hi>York,</hi>
+            </p>
+            <p>His <hi>Beloved Brother</hi> Mr. <hi>Henry Mace,</hi> the <hi>Sub-Chantor</hi> of the <hi>Cathedral</hi> there.</p>
+            <p>At <hi>Nottingham,</hi>
+            </p>
+            <p>His <hi>Honoured</hi> and <hi>worthy good Friend</hi> Mr. <hi>Will. Graves, Maſter of Arts,</hi> and one of the <hi>Aldermen</hi> of <hi>that City.</hi>
+            </p>
+            <p>At <hi>Cambridge,</hi>
+            </p>
+            <p>
+               <hi>Himſelf,</hi> or <hi>his Wife,</hi> at his Houſe in St. <hi>But<g ref="char:EOLhyphen"/>tolph</hi>'s <hi>Pariſh</hi> near <hi>Queens-Colledge.</hi>
+            </p>
+            <p>At <hi>Norwich,</hi>
+            </p>
+            <p>His <hi>kind Couſin</hi> Mr. <hi>Tho. Mace,</hi> living in <hi>Cunſ<g ref="char:EOLhyphen"/>ford-ſtreet,</hi> a <hi>Merchant</hi> of <hi>that City.</hi>
+            </p>
+            <p>At <hi>London,</hi>
+            </p>
+            <p>His <hi>loving Friend</hi> Mr. <hi>James Hart,</hi> one of the Gentlemen of <hi>His Majesties Royal Chappel,</hi> at his Houſe in <hi>Three-Faulcon-Court</hi> in <hi>Fleet-ſtreet,</hi> near the <hi>White-Horſe-Inne,</hi> between <hi>Fetter-lane</hi> and <hi>Shoe-lane.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:93170:18"/>And in Concluſion he further adds,</p>
+            <p>That if any <hi>Perſon</hi> be deſirous of the ſaid <hi>Book,</hi> upon the <hi>ſame first-preſixed Price</hi> of 12 <hi>s.</hi> and ſhall ſo ſignifie <hi>His,</hi> or <hi>Her mind</hi> in two or three lines, <hi>ſubſcribing</hi> their <hi>Name,</hi> to the <hi>Author,</hi> or to any of the aboveſaid <hi>Perſons,</hi> at <hi>York, Notting<g ref="char:EOLhyphen"/>ham, Cambridge, Norwich,</hi> or <hi>London;</hi> or to any other <hi>Friends</hi> of <hi>His,</hi> (ſeveral of which they may meet withall in divers parts of <hi>England,</hi> who out of <hi>kindneſs</hi> to the <hi>Author</hi> and the <hi>Work</hi> do take <hi>Subſcription Names</hi> for <hi>Him;</hi>) in <hi>This Reſpect,</hi> I ſay, any <hi>Perſons thus</hi> doing, (before the <hi>Book</hi> be <hi>finiſhed</hi> and <hi>come forth</hi>) may be aſſured to have <hi>Books Reſerved</hi> for <hi>them,</hi> at the <hi>ſame Price.</hi>
+            </p>
+            <p>But after <hi>it</hi> is once out, and all his <hi>Subſcribers</hi> ſerv'd, the <hi>Price</hi> will be <hi>raiſed higher,</hi> (he not in<g ref="char:EOLhyphen"/>tending to <hi>Print very many</hi> of them.)</p>
+            <p>The <hi>Book</hi> he hopes may be <hi>finiſhed</hi> by the latter end of <hi>August</hi> at the fartheſt; and will be deli<g ref="char:EOLhyphen"/>ver'd in <hi>Sheets.</hi>
+            </p>
+            <p>But if any <hi>Perſons</hi> (living <hi>remote</hi> from <hi>Book-Binders</hi>) have a deſire their <hi>Books</hi> ſhould be <hi>Bound</hi> either by <hi>London</hi> or by <hi>Cambridge Binders,</hi> if they ſo ſignifie their <hi>minds</hi> to the <hi>Author,</hi> and in what manner, and with what coſt they deſire to beſtow, they ſhall have <hi>them</hi> made ready with what convenient ſpeed may be.</p>
+            <p>The <hi>Author</hi> alſo deſireth, that all <hi>Letters</hi> di<g ref="char:EOLhyphen"/>rected to <hi>Him</hi> may be ſent to <hi>London,</hi> (and left at Mr. <hi>Nath. Thompſon</hi>'s, his <hi>Printer,</hi> in <hi>New-ſtreet</hi> between <hi>Fetter-lane</hi> and <hi>Shoe-lane</hi>) where he
+<pb n="29" facs="tcp:93170:18"/>does intend to ſtay (God willing) till his <hi>Book</hi> be <hi>compleatly Finiſh'd.</hi>
+            </p>
+            <p>The <hi>Perſons Subſcribing</hi> are deſired, (together with their <hi>Names</hi>) to ſet down their <hi>Titles,</hi> their places of <hi>Abode,</hi> and <hi>Country.</hi> Becauſe (at the preſent) he does intend to <hi>Print all their Names</hi> in two or three <hi>Pages</hi> by themſelves; with an <hi>Epistle</hi> expreſſing his <hi>Thankfulneſs</hi> unto <hi>them,</hi> both for their <hi>generous</hi> and <hi>free Favour</hi> done un<g ref="char:EOLhyphen"/>to him in <hi>This particular,</hi> and alſo in that thereby they have become <hi>worthy</hi> and <hi>noble Benefactors</hi> to the <hi>Publick.</hi>
+            </p>
+            <p>For without ſuch <hi>Their Encouragement,</hi> he was <hi>diſſwaded</hi> by <hi>good Friends</hi> from adventuring ſo great an <hi>Expence</hi> and <hi>Trouble</hi> (in theſe <hi>hard Times</hi>) as he already has been at, and is ſtill fur<g ref="char:EOLhyphen"/>ther like to be.</p>
+            <p>Laſtly, The <hi>Author</hi> deſires this <hi>one piece</hi> of <hi>kind<g ref="char:EOLhyphen"/>neſs</hi> from <hi>all Friends</hi> and <hi>Lovers</hi> of <hi>his Art,</hi> (be<g ref="char:EOLhyphen"/>cauſe he has not <hi>Printed many</hi> of <hi>theſe little Pam<g ref="char:EOLhyphen"/>phlets,</hi> and ſo is in <hi>doubt</hi> that <hi>Intelligence</hi> may not come <hi>time enough</hi> to <hi>all ſuch Perſons</hi> as are or may be concerned in <hi>This Muſick-Work</hi>) that they will be pleas'd to <hi>communicate the Buſineſs</hi> from one to another, as occaſion may ſerve: By the which means, <hi>This</hi> his <hi>Deſign</hi> may happily take ſuch <hi>effect,</hi> as he has <hi>intended</hi> it for. And for all which <hi>Favours</hi> he ſhall for ever be <hi>Obliged,</hi> whilſt he bears the <hi>Name</hi> of</p>
+            <closer>
+               <signed>Thomas Mace.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
